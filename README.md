@@ -7,5 +7,3 @@
 
 - HTML邮件概述：[Rock Solid HTML Emails](https://24ways.org/2009/rock-solid-html-emails/)   
 - CSS属性在主流邮件客户端中的兼容性：[The Ultimate Guide to CSS](https://www.campaignmonitor.com/css/)   
-
-
